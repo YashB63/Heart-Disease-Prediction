@@ -1,0 +1,3 @@
+Hear Data -> Data Preprocessing -> Train test split -> Logistic Regression Model
+
+Trained Logistic Model ke andar new sata daalege aur predict karege ki Heart healthy hai ya koi defect hai.
